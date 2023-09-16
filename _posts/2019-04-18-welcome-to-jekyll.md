@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND
 categories:
   - blog
 tags:
